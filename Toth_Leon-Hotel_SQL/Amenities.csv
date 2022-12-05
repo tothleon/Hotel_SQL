@@ -1,0 +1,6 @@
+Amenitie_ID,Option_1,Option_2,Option_3
+1,Microwave,Jacuzzi,
+2,Refrigerator,,
+3,Microwave,Refrigerator,Jacuzzi
+4,Microwave,Refrigerator,
+5,Microwave,Refrigerator,Oven
